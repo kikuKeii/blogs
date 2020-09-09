@@ -19,9 +19,9 @@ minima:
     github:  kikukeii
     # devto: jekyll
     # dribbble: jekyll
-  facebook: kikukeii
+    facebook: kikukeii
     # flickr:   jekyll
-  instagram: kikukeii
+    instagram: kikukeii
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
@@ -56,7 +56,7 @@ google_analytics: UA-175492996-1
 # this and add the path to the pages in order as they should show up
 header_pages:
   - about.md
-  - portfolio.md
+  - kontak.md
 
 # Build settings
 theme: minima

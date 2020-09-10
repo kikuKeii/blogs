@@ -5,9 +5,6 @@ permalink: /about/
 ---
 
 <style type="text/css" media="screen">
-body{
-  background: -webkit-linear-gradient(left, #3931af, #00c6ff);
-}
 footer{
   background: #fff;
 }

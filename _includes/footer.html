@@ -5,14 +5,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-        <img src="https://kikukeii.github.io/pages/images/cc.jpg" width="80px" height="80px" />
+        <img src="{{ site.baseurl }}/assets/images/cc.jpg" width="80px" height="80px" />
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}

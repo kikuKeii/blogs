@@ -20,6 +20,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
@@ -32,7 +33,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   overflow-wrap: break-word;
-  background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+  background: -webkit-linear-gradient(left, #f379e3, #043acf);
 }
 
 
@@ -204,6 +205,8 @@ pre {
   margin-left: auto;
   padding-right: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
+  padding-top: $spacing-unit / 2;
+  padding-bottom: $spacing-unit / 2;
   @extend %clearfix;
   border-radius: 25px;
 
@@ -244,7 +247,7 @@ pre {
   height: 16px;
   display: inline-block;
   fill: #FFF;
-  padding: 5px 3px 2px 5px;
+  padding: 0px;
   vertical-align: text-bottom;
 }
 

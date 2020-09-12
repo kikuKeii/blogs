@@ -5,9 +5,6 @@ permalink: /about/
 ---
 
 <style type="text/css" media="screen">
-footer{
-  background: #fff;
-}
 .emp-profile{
     padding: 3%;
     margin-top: 3%;
@@ -101,7 +98,7 @@ footer{
     color: #0062cc;
 }
 </style>
-
+<body onload="alert('Selamat datang\nMaaf page ini masih dalam pengembangan.')">
 <div class="container emp-profile">
             <!--<form method="post">-->
              <h3 align="center">Profile</h3>

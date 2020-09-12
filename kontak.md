@@ -12,6 +12,7 @@ permalink: /kontak/
     color: rgba(0,0,0,.5);
     }
 </style>
+<body onload="alert('Selamat datang\nMaaf page ini masih dalam pengembangan.')">
 <div class="section" id="contact">
   <div class="cc-contact-information">
     <div class="container" style="background: #fff;">

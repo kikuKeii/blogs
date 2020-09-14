@@ -5,6 +5,19 @@ permalink: /about/
 ---
 
 <style type="text/css" media="screen">
+body{
+    background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+}
+.page-link {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #007bff;
+    background-color: ;
+    border: 1px solid #dee2e6;
+}
 .emp-profile{
     padding: 3%;
     margin-top: 3%;
@@ -243,6 +256,7 @@ permalink: /about/
                 </div>
             <!--</form> -->          
         </div>
+
 
 <!--
 # ✨ Hello World..!!! ✨ 😄

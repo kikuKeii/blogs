@@ -16,7 +16,7 @@ permalink: /kontak/
 <div class="section" id="contact">
   <div class="cc-contact-information">
     <div class="container" style="background: #fff;">
-      <div class="" style="padding: 5% 0 1% 10%;">
+      <div class="">
         <div class="row">
           <div class="col-md-11">
             <div class="card mb-0" data-aos="zoom-in">

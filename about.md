@@ -19,7 +19,6 @@ body{
     border: 1px solid #dee2e6;
 }
 .emp-profile{
-    padding: 3%;
     margin-top: 3%;
     margin-bottom: 3%;
     border-radius: 0.5rem;
@@ -31,6 +30,7 @@ body{
 .profile-img img{
     width: 70%;
     height: 100%;
+    border-radius: 50%;
 }
 .profile-img .file {
     position: relative;

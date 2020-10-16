@@ -111,7 +111,7 @@ body{
     color: #0062cc;
 }
 </style>
-<body onload="alert('Selamat datang\nMaaf page ini masih dalam pengembangan.')">
+<body>
 <div class="container emp-profile">
             <!--<form method="post">-->
              <h3 align="center">Profile</h3>
@@ -201,30 +201,6 @@ body{
                                         </div>
                                         </div>  
                             <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <label>Experience</label>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <p>Level 5</p>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <label>Hourly Rate</label>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <p>10$/hr</p>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <label>Total Projects</label>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <p>23</p>
-                                            </div>
-                                        </div>
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <label>English Level</label>

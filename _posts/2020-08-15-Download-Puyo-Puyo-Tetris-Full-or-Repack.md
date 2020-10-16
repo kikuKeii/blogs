@@ -25,3 +25,5 @@ Storage: 7 GB available space. <br>
 <br>
 
 [DOWNLOAD HERE](https://semawur.com/Y1hJgX)
+
+- [Support me @DANA Indonesia](https://link.dana.id/qr/dvn93js)

@@ -3,8 +3,6 @@ layout: post
 title: Soft skill yang harus dimiliki oleh seorang leader
 ---
 
-# Soft skill yang harus dimiliki oleh seorang leader
-
 #### 1 : Inisiatif
 
 Kecakapan untuk menjalankan inisiatif perbaikan mutu kerja tanpa harus diperintah; bersikap proaktif dan memiliki self-motivation yang tinggi untuk menuntaskan pekerjaan; serta cakap dalam mengajukan usulan/masukan untuk peningkatan mutu kerja.

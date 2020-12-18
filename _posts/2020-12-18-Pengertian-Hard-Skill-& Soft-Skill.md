@@ -3,8 +3,6 @@ layout: post
 title: Pengertian Hard Skill & Soft Skill
 ---
 
-# Pengertian Hard Skill & Soft Skill
-
 Pertama-tama, mari kita bahas soal pengertian hard skill. Pada dasarnya, hard skill adalah kemampuan yang dibutuhkan untuk sebuah pekerjaan. Hal ini biasanya tertulis di kolom requirements di sebuah lowongan pekerjaan. Hard skill biasanya merupakan kemampuan spesifik dan jadi salah satu deskripsi pekerjaan kamu kelak.
 
 Jika melansir dari laman The Balance Career, hard skill bisa kita peroleh dari edukasi formal seperti perkuliahan, serta deretan program lain seperti pelatihan, magang, kelas singkat, kelas online, program sertifikasi, dan juga training di perusahaan.
